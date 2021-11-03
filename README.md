@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Mehmet!!! 👋</h1>
 
-<h2 align="center">I'm a Frontend Developer</h2>
+## I'm a Frontend Developer
 
 - 🌱 I’m currently learning everything about Frontend Web Development.
 - 🔭 I'm working on Javascript, React.JS, Redux...
@@ -18,13 +18,13 @@
 
 <hr/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alperenmehmet" alt="alperenmehmet" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alperenmehmet" alt="alperenmehmet" /> </p>
 
 <hr/>
 
-<h2 align="center">💻 ⚙ Languages and Tools</h2>
+<h2 align="left">💻 ⚙ Languages and Tools</h2>
 
-<div align="center">
+<div align="left">
 <a href="#" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/888/888859.png" alt="html" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/888/888847.png" alt="css" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="bootstrap" height="60"/> </a>
@@ -46,14 +46,11 @@
 
 <h2 align="center">📈 Some Stats</h2>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alperenmehmet&show_icons=true&theme=tokyonight& " alt="my github stats" width="50%"/>
+<p align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alperenmehmet&show_icons=true&theme=tokyonight& " alt="my github stats" width="49%"/>&nbsp;
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alperenmehmet&theme=tokyonight&" alt="my commit status" width="49%" />
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alperenmehmet&theme=tokyonight&" alt="my commit status" width="50%" /> 
-</p>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperenmehmet&theme=tokyonight&layout=compact" alt="languages" width="50%" >
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperenmehmet&theme=tokyonight&layout=compact" alt="languages" width="49%" >
 </p>
