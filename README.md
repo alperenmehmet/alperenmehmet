@@ -12,9 +12,9 @@
 ## 📫 Contact me:
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-alperen/)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:me.alperen@gmail.com)
-[![website](https://img.shields.io/badge/twitter-f2f4f7.svg?&style=for-the-badge&logo=twitter&logoColor=blue)](https://twitter.com/alperen_me)
-[![website](https://img.shields.io/badge/hackerRank-f4f4f7.svg?&style=for-the-badge&logo=hackerRank&logoColor=green)](https://www.hackerrank.com/me_alperen)
+[![website](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me.alperen@gmail.com)
+[![website](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alperen_me)
+[![website](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/me_alperen)
 
 <hr/>
 
