@@ -3,7 +3,7 @@
 ## I'm a Frontend Developer
 
 - 🌱 I’m currently learning everything about Frontend Web Development.
-- 🔭 I'm working on Javascript, React.JS, Redux...
+- 🔭 I'm working on Javascript, React, TypeScript and Redux...
 - 🥅 Goals: Contribute more to Open Source projects.
 - 💬 Ask me about whatever you want.
 
@@ -29,7 +29,9 @@
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> </a>
+<a href="#" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" /> </a>
+<a href="#" target="_blank"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss"/> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components"/> </a>
 </div>
 
@@ -38,10 +40,10 @@
 <h2 align="center">📈 Some Stats</h2>
 
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alperenmehmet&show_icons=true&theme=tokyonight& " alt="my github stats" width="49%"/>&nbsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alperenmehmet&theme=tokyonight&" alt="my commit status" width="49%" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alperenmehmet&show_icons=true&theme=radical " alt="my github stats" width="49%"/>&nbsp;
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alperenmehmet&theme=radical" alt="my commit status" width="49%" />
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperenmehmet&theme=tokyonight&layout=compact" alt="languages" width="49%" >
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperenmehmet&theme=radical&layout=compact" alt="languages" width="49%" >
 </p>
