@@ -39,6 +39,6 @@
 
 <h2 align="center">📈 Some Stats</h2>
 
-<p align="center" >
-<img  src="https://github-readme-stats.vercel.app/api?username=alperenmehmet&show_icons=true&theme=radical " alt="my github stats" width="60%"  >
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=alperenmehmet&theme=codeSTACKr&show_icons=true" alt="my github stats" width="60%" align="center" align="center" >
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperenmehmet&theme=codeSTACKr&layout=compact" alt="languages" width="60%" >
