@@ -42,7 +42,3 @@
 <p align="center" >
 <img  src="https://github-readme-stats.vercel.app/api?username=alperenmehmet&show_icons=true&theme=radical " alt="my github stats" width="60%"  >
 </p>
-
-<p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperenmehmet&theme=radical&layout=compact" alt="languages" width="60%" >
-</p>
